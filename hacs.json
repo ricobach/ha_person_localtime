@@ -1,0 +1,9 @@
+{
+  "name": "Custom Home Assistant Integrations by RicoBach",
+  "content_in_root": false,
+  "country": "global",
+  "domains": ["sensor"],
+  "render_readme": true,
+  "zip_release": false,
+  "filename": "custom_components.json"
+}
