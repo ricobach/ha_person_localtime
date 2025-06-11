@@ -1,4 +1,4 @@
-# ha_person_localtime
+# Home Assistant Person Localtime
 
 A custom integration for Home Assistant that tracks a person's **local time**, **sun position**, **sunrise**, and **sunset times** based on their current location.
 
