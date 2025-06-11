@@ -1,0 +1,19 @@
+{
+  "domain": "person_localtime",
+  "name": "Person Localtime",
+  "version": "1.0",
+  "config_flow": true,
+  "documentation": "https://github.com/yourusername/person_localtime",
+  "codeowners": ["@ricobach"],
+  "requirements": [
+    "astral>=2.2",
+    "timezonefinder>=5.2.0",
+    "pytz"
+  ],
+  "after_dependencies": ["person"],
+  "iot_class": "local_polling",
+  "icon": "mdi:map-clock",
+  "translation_key": "person_localtime"
+}
+
+
