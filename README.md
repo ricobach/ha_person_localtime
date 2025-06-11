@@ -4,7 +4,7 @@ This repository contains custom integrations for Home Assistant developed or mai
 
 ## 📦 Integrations
 
-### [`person_localtime`](custom_components/person_localtime)
+### [`Person Localtime`](custom_components/person_localtime)
 
 Tracks the **local time and sun position** for any Home Assistant `person` entity based on their geolocation.
 
