@@ -1,14 +1,14 @@
 {
   "domain": "person_localtime",
   "name": "Home Assistant Person Localtime",
-  "version": "1.1",
+  "version": "1.2",
   "config_flow": true,
   "documentation": "https://github.com/ricobach/ha_person_localtime",
   "codeowners": ["@ricobach"],
   "requirements": [
     "astral>=2.2",
-    "timezonefinder>=6.5.9",
-    "pytz>=2025.2"
+    "timezonefinder>=5.2.0",
+    "pytz"
   ],
   "after_dependencies": ["person"],
   "iot_class": "local_polling",
