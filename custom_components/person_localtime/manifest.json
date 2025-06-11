@@ -6,7 +6,7 @@
   "documentation": "https://github.com/ricobach/ha_person_localtime",
   "codeowners": ["@ricobach"],
   "requirements": [
-    "astral>=3.2",
+    "astral>=2.2",
     "timezonefinder>=6.5.9",
     "pytz>=2025.2"
   ],
