@@ -27,4 +27,6 @@ For questions or feedback, open an issue or contact [@ricobach](https://github.c
 
 ## 📃 License
 
-MIT License. See [`LICENSE`](LICENSE) for details.
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+You are free to use, modify, and distribute this software in accordance with the terms of that license.
