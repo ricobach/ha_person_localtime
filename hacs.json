@@ -5,6 +5,7 @@
   "zip_release": false,
   "filename": "custom_components/person_localtime/manifest.json",
   "country": "global",
+  "icon": "mdi:earth",
   "iot_class": "local_polling",
   "render_readme": true
 }
