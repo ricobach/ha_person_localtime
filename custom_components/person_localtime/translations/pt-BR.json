@@ -1,0 +1,24 @@
+{
+  "title": "Horário Local da Pessoa",
+  "description": "Acompanhe o horário local e a posição do sol de uma pessoa com base na sua localização geográfica.",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Selecionar Pessoa",
+        "description": "Escolha a entidade da pessoa que você deseja acompanhar."
+      }
+    },
+    "error": {
+      "invalid_person": "A entidade selecionada não é uma pessoa válida."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Opções",
+        "description": "Atualize a pessoa selecionada."
+      }
+    }
+  }
+}
+

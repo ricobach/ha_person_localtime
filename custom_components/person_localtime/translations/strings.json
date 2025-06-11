@@ -1,0 +1,24 @@
+{
+  "title": "Person Localtime",
+  "description": "Track a person's local time and sun position based on their geolocation.",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Select Person",
+        "description": "Choose the person entity you want to track."
+      }
+    },
+    "error": {
+      "invalid_person": "The selected entity is not a valid person."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Options",
+        "description": "Update the selected person entity."
+      }
+    }
+  }
+}
+

@@ -1,0 +1,24 @@
+{
+  "title": "Person Lokal Tid",
+  "description": "Overvåg en persons lokale tid og solposition baseret på deres geografiske placering.",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Vælg person",
+        "description": "Vælg den person, du ønsker at overvåge."
+      }
+    },
+    "error": {
+      "invalid_person": "Den valgte enhed er ikke en gyldig person."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Indstillinger",
+        "description": "Opdater den valgte person."
+      }
+    }
+  }
+}
+

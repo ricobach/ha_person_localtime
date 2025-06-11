@@ -1,0 +1,18 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Person Localtime",
+        "description": "Select the person entity to track local time and sun position."
+      },
+      "init": {
+        "title": "Options",
+        "description": "Update the person entity for this integration."
+      }
+    },
+    "error": {
+      "invalid_person": "The selected entity is not a valid person."
+    }
+  }
+}
+
