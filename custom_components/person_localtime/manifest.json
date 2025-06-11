@@ -1,9 +1,9 @@
 {
   "domain": "person_localtime",
-  "name": "Person Localtime",
+  "name": "Home Assistant Person Localtime",
   "version": "1.0",
   "config_flow": true,
-  "documentation": "https://github.com/yourusername/person_localtime",
+  "documentation": "https://github.com/ricobach/ha_person_localtime",
   "codeowners": ["@ricobach"],
   "requirements": [
     "astral>=2.2",
