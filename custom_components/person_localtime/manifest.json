@@ -6,9 +6,9 @@
   "documentation": "https://github.com/ricobach/ha_person_localtime",
   "codeowners": ["@ricobach"],
   "requirements": [
-    "astral>=2.2",
-    "timezonefinder>=5.2.0",
-    "pytz"
+    "astral>=3.2",
+    "timezonefinder>=6.5.9",
+    "pytz>=2025.2"
   ],
   "after_dependencies": ["person"],
   "iot_class": "local_polling",
