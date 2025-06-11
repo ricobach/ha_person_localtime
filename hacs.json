@@ -1,5 +1,5 @@
 {
-  "name": "Person Localtime",
+  "name": "Home Assistant Person Localtime",
   "content_in_root": false,
   "domain": "person_localtime",
   "zip_release": false,
